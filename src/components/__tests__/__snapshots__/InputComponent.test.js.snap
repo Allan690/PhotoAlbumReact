@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputComponent renders input component 1`] = `
+<div
+  className="search"
+>
+  <input
+    className="input-component"
+    onChange={[Function]}
+    placeholder="Enter the album ID"
+    type="text"
+    value=""
+  />
+  <button
+    className="submit"
+    onClick={[Function]}
+  >
+    Load Photos
+  </button>
+</div>
+`;
